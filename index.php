@@ -3,7 +3,6 @@
 /// convert temperatures in degrees Celsius to Fahrenheit,
 /// (0°C × 9/5) + 32 = 32°F
 
-$clesius = 0;
 
 
 ?>
@@ -17,7 +16,7 @@ $clesius = 0;
 <body>
 
 <h1>Input Clesius</h1>
-<h2>Input Clesius</h2>
+<h2>Clesius = 0</h2>
 <p>Fahrenheit is <?php  echo "32 °F" ; ?></p>
 
 </body>
